@@ -11,5 +11,10 @@ Design a water meter which is apt, modern and smart. The water meter will be cos
 2. NodeMCU
 3. Adafruit
 
-### :computer: ThingsSpeak server : 
+### :electric_plug: Components Used :
+1. NodeMCU ESP8266-12E board
+2. Water flow sensor YF-S201
+3. OLED
+4. Connecting Wires
+5. Resistors
 
